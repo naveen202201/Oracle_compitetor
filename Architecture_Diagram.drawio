@@ -1,0 +1,164 @@
+<mxfile host="app.diagrams.net" agent="M365 Copilot">
+  <diagram id="oracleFusionMfgRfp" name="Page-1">
+    <mxGraphModel dx="2513" dy="1050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d8433e;strokeColor=#b71c1c;fontColor=#ffffff;fontStyle=1;fontSize=24;arcSize=8;" value="Oracle Fusion Manufacturing RFP Winning System" vertex="1">
+          <mxGeometry height="60" width="1850" x="100" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#c5ced8;fontColor=#1f2d3d;fontStyle=1;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="2" width="1620" x="90" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef2f7;strokeColor=#90a4bf;fontColor=#183153;fontStyle=1;fontSize=17;arcSize=10;shadow=1;" value="RFP Understanding" vertex="1">
+          <mxGeometry height="135" width="245" x="105" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#314a67;fontSize=14;" value="RFP Analysis" vertex="1">
+          <mxGeometry height="24" width="215" x="120" y="227" as="geometry" />
+        </mxCell>
+        <mxCell id="13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef2f7;strokeColor=#90a4bf;fontColor=#183153;fontStyle=1;fontSize=17;arcSize=10;shadow=1;" value="Oracle MFG Capability Agent" vertex="1">
+          <mxGeometry height="135" width="245" x="370" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#314a67;fontSize=14;" value="Solution Fit" vertex="1">
+          <mxGeometry height="24" width="215" x="385" y="227" as="geometry" />
+        </mxCell>
+        <mxCell id="16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef2f7;strokeColor=#90a4bf;fontColor=#183153;fontStyle=1;fontSize=17;arcSize=10;shadow=1;" value="Competitor Intelligence Agent" vertex="1">
+          <mxGeometry height="135" width="245" x="635" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="17" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#314a67;fontSize=14;" value="SI Competitor Insights" vertex="1">
+          <mxGeometry height="24" width="215" x="650" y="227" as="geometry" />
+        </mxCell>
+        <mxCell id="19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef2f7;strokeColor=#90a4bf;fontColor=#183153;fontStyle=1;fontSize=17;arcSize=10;shadow=1;" value="Battlecard Generator Agent" vertex="1">
+          <mxGeometry height="135" width="245" x="900" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="20" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#314a67;fontSize=14;" value="Battlecards" vertex="1">
+          <mxGeometry height="24" width="215" x="915" y="227" as="geometry" />
+        </mxCell>
+        <mxCell id="22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef2f7;strokeColor=#90a4bf;fontColor=#183153;fontStyle=1;fontSize=17;arcSize=10;shadow=1;" value="Positioning &amp; Messaging Agent" vertex="1">
+          <mxGeometry height="135" width="245" x="1165" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="23" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#314a67;fontSize=14;" value="Value Messaging" vertex="1">
+          <mxGeometry height="24" width="215" x="1180" y="227" as="geometry" />
+        </mxCell>
+        <mxCell id="25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef2f7;strokeColor=#90a4bf;fontColor=#183153;fontStyle=1;fontSize=17;arcSize=10;shadow=1;" value="&#xa;&lt;span style=&quot;color: rgb(24, 49, 83); font-family: Helvetica; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;recommendation outcomes&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="135" width="245" x="1705" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="26" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#314a67;fontSize=14;" value="Bid Decision" vertex="1">
+          <mxGeometry height="24" width="215" x="1445" y="227" as="geometry" />
+        </mxCell>
+        <mxCell id="100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#c5ced8;fontColor=#1f2d3d;fontStyle=1;fontSize=16;" value="Orchestrator   •   Orchestration" vertex="1">
+          <mxGeometry height="42" width="1400" x="200" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="110" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#c5ced8;fontColor=#1f2d3d;fontStyle=1;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="70" width="1420" x="190" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="111" parent="1" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#e8eff8;strokeColor=#6d8bb1;fontColor=#183153;fontStyle=1;fontSize=15;" value="Oracle MFG Data" vertex="1">
+          <mxGeometry height="46" width="210" x="260" y="402" as="geometry" />
+        </mxCell>
+        <mxCell id="112" parent="1" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#e8eff8;strokeColor=#6d8bb1;fontColor=#183153;fontStyle=1;fontSize=15;" value="Competitor Insights" vertex="1">
+          <mxGeometry height="46" width="250" x="700" y="402" as="geometry" />
+        </mxCell>
+        <mxCell id="113" parent="1" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#e8eff8;strokeColor=#6d8bb1;fontColor=#183153;fontStyle=1;fontSize=15;" value="Win/Loss History" vertex="1">
+          <mxGeometry height="46" width="230" x="1180" y="402" as="geometry" />
+        </mxCell>
+        <mxCell id="120" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9fbfd;strokeColor=#b9c4d0;fontColor=#1f2d3d;fontSize=15;arcSize=6;" value="Extract &amp; Classify RFP" vertex="1">
+          <mxGeometry height="52" width="360" x="200" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="121" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9fbfd;strokeColor=#b9c4d0;fontColor=#1f2d3d;fontSize=15;arcSize=6;" value="JSON Manifest" vertex="1">
+          <mxGeometry height="52" width="260" x="725" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9fbfd;strokeColor=#b9c4d0;fontColor=#1f2d3d;fontSize=15;arcSize=6;" value="JSON Manifest" vertex="1">
+          <mxGeometry height="52" width="260" x="1165" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f7f0e3;strokeColor=#c7b99c;fontColor=#6b3f22;fontStyle=1;fontSize=18;arcSize=8;" value="&#xa;&lt;span style=&quot;color: rgb(107, 63, 34); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Winning Business Outcomes&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="180" width="1420" x="195" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="yMzSUD0U1aaDUzAbC_gv-228" edge="1" parent="1" source="131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9fb3c8;fontColor=#1b3a57;fontStyle=1;fontSize=16;arcSize=8;" value="Competitor Battlecards" vertex="1">
+          <mxGeometry height="55" width="320" x="320" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9fb3c8;fontColor=#1b3a57;fontStyle=1;fontSize=16;arcSize=8;" value="Positioning Narratives" vertex="1">
+          <mxGeometry height="55" width="320" x="320" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9fb3c8;fontColor=#1b3a57;fontStyle=1;fontSize=16;arcSize=8;" value="recommendation outcomes" vertex="1">
+          <mxGeometry height="70" width="470" x="1070" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="140" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3c6ea8;strokeColor=#274d78;fontColor=#ffffff;fontStyle=1;fontSize=18;" value="Continuous Learning" vertex="1">
+          <mxGeometry height="42" width="1230" x="290" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4f8fc;strokeColor=#b9c4d0;fontColor=#1f2d3d;fontSize=15;arcSize=6;" value="" vertex="1">
+          <mxGeometry height="100" width="1230" x="290" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4f8fc;strokeColor=#b9c4d0;fontColor=#1f2d3d;fontSize=15;arcSize=6;" value="RFP Documents" vertex="1">
+          <mxGeometry height="42" width="250" x="350" y="878" as="geometry" />
+        </mxCell>
+        <mxCell id="143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4f8fc;strokeColor=#b9c4d0;fontColor=#1f2d3d;fontSize=15;arcSize=6;" value="Oracle MFG Docs" vertex="1">
+          <mxGeometry height="42" width="250" x="765" y="878" as="geometry" />
+        </mxCell>
+        <mxCell id="144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4f8fc;strokeColor=#b9c4d0;fontColor=#1f2d3d;fontSize=15;arcSize=6;" value="Competitor Websites" vertex="1">
+          <mxGeometry height="42" width="250" x="1180" y="878" as="geometry" />
+        </mxCell>
+        <mxCell id="200" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4a6fa5;strokeWidth=2;" target="100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="201" edge="1" parent="1" source="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4a6fa5;strokeWidth=2;" target="100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="202" edge="1" parent="1" source="16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4a6fa5;strokeWidth=2;" target="100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="203" edge="1" parent="1" source="19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4a6fa5;strokeWidth=2;" target="100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="204" edge="1" parent="1" source="22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4a6fa5;strokeWidth=2;" target="100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="205" edge="1" parent="1" source="yMzSUD0U1aaDUzAbC_gv-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4a6fa5;strokeWidth=2;" target="100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="220" edge="1" parent="1" source="100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4a6fa5;strokeWidth=2;" target="112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="221" edge="1" parent="1" source="112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4a6fa5;strokeWidth=2;" target="121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="222" edge="1" parent="1" source="121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4a6fa5;strokeWidth=2;" target="130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="223" edge="1" parent="1" source="141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4a6fa5;strokeWidth=2;" target="130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="224" edge="1" parent="1" source="131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#627d98;strokeWidth=2;" target="133">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="590" />
+              <mxPoint x="855" y="590" />
+              <mxPoint x="855" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="225" edge="1" parent="1" source="132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#627d98;strokeWidth=2;" target="133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f7fbff;strokeColor=#b7c9d9;fontColor=#486581;fontSize=13;arcSize=6;" value="Editable draw.io version • Top-row focused 7-agent architecture • Orchestration + knowledge layers • Outcome-driven layout" vertex="1">
+          <mxGeometry height="110" width="250" x="1600" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="yMzSUD0U1aaDUzAbC_gv-225" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9fb3c8;fontColor=#1b3a57;fontStyle=1;fontSize=16;arcSize=8;" value="Go / No-Go Recommendation" vertex="1">
+          <mxGeometry height="55" width="320" x="320" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="R4JX6YTDZkP1kDMGkPd7-227" edge="1" parent="1" source="yMzSUD0U1aaDUzAbC_gv-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1710" y="203" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMzSUD0U1aaDUzAbC_gv-230" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef2f7;strokeColor=#90a4bf;fontColor=#183153;fontStyle=1;fontSize=17;arcSize=10;shadow=1;" value="Go / No-Go Agent" vertex="1">
+          <mxGeometry height="135" width="245" x="1430" y="135" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

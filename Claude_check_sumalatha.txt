@@ -1,0 +1,12 @@
+Battlecard Generator Agent -- Strengths & weakness (true picture)
+Positioning & Messaging Agent -- strengths and previous wins & losses - end goal is represent the winning pitch
+recommendation outcomes -- Past history and gaps -- end goal actionable items to overcome the gaps
+
+Win / No-Go Agent -- probability of winning the RFC Bid
+
+when we understand the recommendation outcomes & perform it better then win/ no-go agent
+
+Architecture review
+Prompt reviews
+Best strengths to win present and pitch better in Pythia Hackathon - strength and weakness
+
