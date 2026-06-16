@@ -6,6 +6,8 @@ Win / No-Go Agent -- probability of winning the RFC Bid
 
 when we understand the recommendation outcomes & perform it better then win/ no-go agent
 
+Action points :
+
 Architecture review
 Prompt reviews
 Best strengths to win present and pitch better in Pythia Hackathon - strength and weakness
